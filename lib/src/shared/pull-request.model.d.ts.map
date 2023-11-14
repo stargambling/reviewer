@@ -1,0 +1,1 @@
+{"version":3,"file":"pull-request.model.d.ts","sourceRoot":"","sources":["../../../src/shared/pull-request.model.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,2BAA2B,CAAC;AAE5D,qBAAa,WAAW;IACpB,SAAgB,UAAU,EAAE,MAAM,CAAC;IAC5B,KAAK,EAAE,eAAe,EAAE,CAAM;gBAElB,UAAU,EAAE,MAAM,EAAE,KAAK,CAAC,EAAE,eAAe,EAAE;CAInE"}
