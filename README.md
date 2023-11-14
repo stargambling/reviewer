@@ -1,7 +1,7 @@
 # Site Code Reviewer
 
 
-**code-reviewer** analyzes and collects data from projects built on the Yii framework. It was primarily developed for stargambling.net, but is also suitable for parsing data for other sites.
+**code-reviewer** analyzes and collects data from projects built on the Yii framework. It was primarily developed for [Star Gambling](https://stargambling.net/), but is also suitable for parsing data for other sites.
 
 **Currently supports the following platforms:**
 
@@ -64,5 +64,4 @@ yarn test
 
 ### More info
 
-Check out this blog post that describes `code-review` in further detail:
-![Star Gambling](https://stargambling.net/)
+Check out this blog post that describes `code-review` in further detail: [Star Gambling](https://stargambling.net/)
