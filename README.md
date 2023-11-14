@@ -1,3 +1,3 @@
 # Star Gambling Code Reviewer
 
-About project:
+About project: #1
